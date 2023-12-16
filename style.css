@@ -1,0 +1,135 @@
+body{
+    background-color: gainsboro;
+}
+.webLogo{
+    margin:20px 15px;
+}
+.logoBody{
+    padding:50px;
+    background-color:rgb(235, 234, 234);
+}
+.navBar{
+    background-color: black;
+    padding:10px 5px;   
+}
+.navList{
+    display: inline-block;
+}
+.navList a{
+    color:white;
+    margin-left:10px;
+}
+.listItem{
+    display: inline-block;
+}
+.facebookIcon{
+    color:white;
+    display: inline-block;
+    margin-left:600px;
+}
+.headerImage{
+
+    width:100%;
+    margin-top:40px;
+    margin-bottom:40px;
+    height:300px;
+    background-color: rgb(150, 180, 2);
+}
+.headerImage h1{
+text-align:center;
+color:white;
+padding-top:120px;    
+
+}
+.boxLogo{
+    width:350px;
+    height:180px;
+    background-color:whitesmoke;
+    display: inline-block;
+    padding:25px;
+    margin-left: 50px;
+}
+.parentBox{
+    position: relative;
+    height:400px;
+    top: 0px;
+    background-color:white;
+}
+.inline-block{
+    display: inline-block;
+}
+.ml-800{
+    margin-left: 800px;
+}
+.childBox1{
+    display: inline-block;
+    width:70%;
+    height: 300px;
+    padding:30px;
+    box-sizing: border-box;
+}
+.childBox2{
+    position: absolute;
+    top: 0;
+    display: inline-block;
+    width:10%;
+    height: 300px;
+    background-color: darkgray;
+    padding:30px;
+    color: black;
+    box-sizing: border-box;
+}
+.parentBox h3{
+    margin-left:770px;
+}
+.box1{
+    width:25%;
+    background-color:dodgerblue;
+    color:whitesmoke;
+    height:150px;
+    display: inline-block;
+
+}
+.box2{
+    width:25%;
+    background-color:rgb(91, 180, 2) ;
+    color: whitesmoke;
+    height: 150px;
+    display: inline-block;
+    text-align: center;
+}
+.box3{
+    width:25%;
+    background-color: rgb(236, 236, 49);
+    color: whitesmoke;
+    height: 150px;
+    display: inline-block;
+    text-align: center;
+}
+.box4{
+    width:25%;
+    background-color: rgb(201, 32, 32);
+    color:whitesmoke;
+    height:150px;
+    display: inline-block;
+    text-align: center;
+}
+.gellary{
+    text-align: center;
+}
+
+.parentAbout{
+    height: 300px;
+    width: 100%;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+
+.childAbout{
+    height: 300px;
+    width: 100%;
+    padding: 40px 20px;
+    box-sizing: border-box;
+}
+
